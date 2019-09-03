@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceMessageResponder", "Vo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwilioConferenceCalling", "TwilioConferenceCalling\TwilioConferenceCalling.csproj", "{446C6644-22E5-4CE1-A6A1-253AF7656C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallSidWebApp", "CallSidWebApp\CallSidWebApp.csproj", "{596E3445-FF51-4814-BD35-789FEE06CEF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{446C6644-22E5-4CE1-A6A1-253AF7656C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{446C6644-22E5-4CE1-A6A1-253AF7656C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{446C6644-22E5-4CE1-A6A1-253AF7656C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596E3445-FF51-4814-BD35-789FEE06CEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596E3445-FF51-4814-BD35-789FEE06CEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596E3445-FF51-4814-BD35-789FEE06CEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596E3445-FF51-4814-BD35-789FEE06CEF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
